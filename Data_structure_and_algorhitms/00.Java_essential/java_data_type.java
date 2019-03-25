@@ -1,4 +1,3 @@
-package java_essential;
 
 public class java_data_type {
     public static void main(String[] args) {

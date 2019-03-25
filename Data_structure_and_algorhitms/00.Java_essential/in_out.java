@@ -1,5 +1,3 @@
-package java_essential;
-
 import java.util.Scanner;
 
 public class in_out {

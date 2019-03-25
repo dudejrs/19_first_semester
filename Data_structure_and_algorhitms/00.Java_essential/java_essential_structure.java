@@ -1,4 +1,3 @@
-package java_essential;
 
 public class java_essential_structure {
 	

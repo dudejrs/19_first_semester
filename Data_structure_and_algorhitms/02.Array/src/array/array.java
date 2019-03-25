@@ -33,6 +33,8 @@ public class array {
 		for(int i=0;i<array6.length;i++) {
 			System.out.println(array6[i]);
 		}
+		
+		for (int i : array6) system.out.print(array6[i]);
 
 		//3. comparing array
 		

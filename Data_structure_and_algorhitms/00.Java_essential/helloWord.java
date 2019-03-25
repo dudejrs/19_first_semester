@@ -1,4 +1,3 @@
-package java_essential;
 
 public class helloWord {
 	public static void main(String[] args) {
